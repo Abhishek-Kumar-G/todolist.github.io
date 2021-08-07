@@ -15,7 +15,7 @@
 }
 body{font-family: 'Roboto-Regular';background: #f5f5f5;}
 header .navbar{padding: .5rem 0;}
-header nav.navbar .navbar-brand{color:#fff;}
+header nav.navbar .navbar-brand{color:#800080;}
 section.todo-outer {
     width: 100%;
     float: left;
